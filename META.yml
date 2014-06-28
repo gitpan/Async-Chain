@@ -1,5 +1,5 @@
 ---
-abstract: 'The right way to convert nested callback in plain struct or just'
+abstract: 'The right way to convert nested callback in plain struct'
 author:
   - 'Anton Reznikov <a.reznikov@corp.mail.ru>'
 build_requires:
@@ -19,4 +19,4 @@ no_index:
     - inc
 requires:
   perl: 5.006
-version: 0.04
+version: 0.05
